@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Jason Dunn
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Jason
+last_name: Dunn
 
 # Status emoji
 status:
@@ -14,34 +14,33 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Economic Research Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Federal Reserve Bank of St. Louis
+    url: https://research.stlouisfed.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a current Research Associate at the Federal Reserve Bank of St. Louis and am applying for PhD programs to begin in the Fall of 2024. My current research focuses primarily on international trade and economic history. My other research interests include human and economic geography, demography, and urban & spatial economics. 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Economic History
+  - Human and Economic Geography
+  - Urban and Spatial Economics
+  - Demography
+  - Education
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BA with Honors in Economics and History
+      institution: Colby College
+      year: 2021
+    - course: Visiting student in Economics, History, and Maths
+      institution: St. Catherine's College, Oxford University
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -80,5 +79,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jason Dunn is a current Research Associate at the Federal Reserve Bank of St. Louis, who will be applying for PhD programs to begin in the Fall of 2024. His current research focuses primarily on international trade and economic history. Other research interests include human and economic geography, demography, and urban & spatial economics. 
 {style="text-align: justify;"}
